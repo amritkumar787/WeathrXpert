@@ -1,3 +1,4 @@
+## WeathrXpert
 Welcome to WeathrXpert, a dynamic web application that provides real-time weather information based on user-specified locations. This project is built using HTML, CSS, and JavaScript, with styling enhancements from the Bootstrap framework.
 
 ## Features
